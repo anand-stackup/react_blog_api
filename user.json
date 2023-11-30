@@ -1,0 +1,17 @@
+[
+  {
+    "email": "d@gmail.com",
+    "password": "$2b$10$5N76/kisP5RqgoKDB0mdSOVW2DskLTZlV/C35vh913pOmmKIVFxOi",
+    "id": "af22100e-6bfc-45b8-a342-6a37bd10f568"
+  },
+  {
+    "email": "a@gmail.com",
+    "password": "$2b$10$rK4xTvGIdL27xC7YaiLnoub4wcObNgPPWrPwPimwHsLaXIuFpBC0q",
+    "id": "a65d6179-0fd6-4dcb-ab5b-e21fe0eb476e"
+  },
+  {
+    "email": "shamilth@gmail.com",
+    "password": "$2b$10$5qLGHmqhUwC5Cs60ruhMDOS.NVVqJlJghUziITCVmtCg0P8CCH5IO",
+    "id": "a268030d-ea3c-40bc-b5d7-e4f0a8415074"
+  }
+]
